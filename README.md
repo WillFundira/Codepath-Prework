@@ -1,8 +1,8 @@
 # Codepath-Prework
 Tip Calculator for codepath.
-# Pre-work - *Name of App Here*
+# Pre-work - *PreWork*
 
-**TipCalculator** is a tip calculator application for iOS.
+**PreWork** is a tip calculator application for iOS.
 
 Submitted by: **Wilbert Fundira**
 
